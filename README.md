@@ -44,7 +44,7 @@ Bringing customers to the website instead of the app opens the user up to the en
 
 
 
-##Sources
+## Sources
 [1]https://99bitcoins.com/bitcoin-exchanges/kraken-review/
 [2]https://coinloan.io/blog/faces-of-crypto-jesse-powell-kraken-co-founder/
 [3[https://www.cnet.com/tech/services-and-software/bitcoin-exchange-kraken-raises-millions-of-dollars/ 
