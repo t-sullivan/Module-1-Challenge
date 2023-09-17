@@ -1,6 +1,6 @@
 Unleash The Kraken
 
-##Overview and Origin
+## Overview and Origin
 
 Deep in the seas of crypto lies one of the ancestral crypto exchanges, Kraken.  The digital asset unicorn emerged as one of the first  out of the blockchain revolution in 2011.  The company was most notably co-founded by Jesse Powell, and launched officially in 2013. [1] Kraken is a digital asset platform where users are able to buy, sell, stake, leverage, and store crypto currency.
 Jesse was no stranger to crypto or to exchanges as he served as a consultant to the infamous Mt. Gox exchange.  It was through working closely with the exchange that Jesse was inspired to start Kraken.  Kraken was a result of the eventual fall of Mt. Gox.  Crypto needed another exchange to pave the way, and Jesse sought out to do just that. [2]
@@ -9,7 +9,7 @@ Kraken was funded through a Series A round of $5m USD, the round was led by the 
 Jesse Powell’s Kraken sought to be better than existing exchanges.  Kraken’s business model and activities prided itself on being able to prove proof of reserves, and  led the way in this metric since inception.  Proof of reserve is a mechanism that is employed to substantiate the claims to assets backing customers, and custodial balance sheets promoting transparency, and the integrity of Kraken.[5]  Furthering Kraken’s alignment with crypto, Kraken is a leader in client privacy.  They remain one of the exchanges who defend and fight for privacy. 
 One of the main functions of any crypto exchange is its focus on onboarding customers into the crypto world.  Without user onboarding, and smooth experiences, crypto as a whole fails.  Kraken has other key missions, and are encapsulated in their mission statement, “Our mission is to accelerate the global adoption of crypto so that everyone can achieve financial freedom and inclusion.”[6]
 
-##Buinsness Actiities
+## Buinsness Activities
 
 Embracing their mission, Kraken focuses on onboarding retail, and institutions seeking inclusion and financial freedom.  Retail and institutions are very different market segments, each with their own needs and requirements  For a retail customer, they seek to store their crypto safely and conveniently on exchange, while institutions  will want many other requirements met to back the safety of their assets.  Due to their advanced nature, institutions will want to be offered more advanced solutions such as prime services.  Prime services include lending and some form of interest for their assets if they accept counterparty risk.  Proof of Reserves is crucial for prime services to function properly.  By certifying their crypto ledgers, they are by extension a leader in the prime brokerage business.  This dedication to Proof of Reserves provides Kraken a level of acceptance that many other exchanges can never be privy to, and puts them well ahead of their competitors.    
 In order to develop a robust platform, Kraken’s business further  offers multi-chain, multi-platform, and financial solutions touching nearly all facets of both crypto and traditional finance.  Kraken’s solutions and offerings include margin trading, staking, trading, OTC trades, vanilla buy/sell orders,and research.  One very distinct and fundamental appeal to Kraken is how they treat their customers, and their dedication to the crypto ethos.  They are very much a crypto company first, their values very much align with the core themes of decentralization and crypto.
@@ -20,7 +20,7 @@ Kraken continuously  upgrades their systems and  implements new solutions.  An e
 In order to be a crypto exchange one can not only focus on crypto, exchanges must also focus on the cross between traditional finance, existing regulations, and standing payment rails.  These extra layers of requirements require additional technical components, and must be up to standards.  To do this, Kraken maintains very high standards and is in constant communication with regulators.    
 Kraken’s ability to stay up to date, and up to speed with hardware continues to propel Kraken as one of the best crypto exchanges available and a thought leader in the space which continues to develop crypto and the financial industry.
 
-#Landscape
+## Landscape
 Kraken is a crypto company that is contributing to the financial revolution which democratizes finance and creates a level playing field of knowledge for all.  At its roots, Kraken is an online platform and marketplace that facilitates the buying, selling, and trading of various cryptocurrencies. 
 The largest trend in this space is the adoption and rate at which people are being onboarded.  The population wants this technology as it offers an abundance of solutions, services, and opportunities.
 	One of the largest treds in blockchain technology is the use of its public ledger.  With a public ledger, users are able to engage in Decentralized Finance, also known as DeFi. DeFi currently is the largest application of blockchain, and has spurred much of the adoption for users.
